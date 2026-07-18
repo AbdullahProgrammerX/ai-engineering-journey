@@ -64,3 +64,12 @@ site/sitemap.xml
 site/llms.txt
 site/build-meta.js
 .github/workflows/
+.env
+*.bin
+*.safetensors
+*.pt
+*.onnx
+*.parquet
+*.csv
+*.json
+models/
